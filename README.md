@@ -1,6 +1,6 @@
-### Welcome to my GitHub 👀
+## Welcome to my GitHub 👀
 
-## Sebastian Gutierrez
+### Sebastian Gutierrez
 
 <!--
 **sebmaster36/sebmaster36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
