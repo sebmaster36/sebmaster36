@@ -9,7 +9,7 @@
                 ||----w |
                 ||     ||
 ```
-My name is [**Sebastian Gutierrez**](https://www.linkedin.com/in/sgutier5/), and I am currently a *rising junior* (c/o '23) at [**the University of Notre Dame**](https://www.nd.edu/) pursuing a degree in **Computer Science** 😎
+My name is [**Sebastian Gutierrez**](https://www.linkedin.com/in/sgutier5/), and I am currently a *rising junior* (c/o '23) at [**the University of Notre Dame**](https://www.nd.edu/), pursuing a degree in **Computer Science** 😎
 
 ## About Me 🕺
 * First-Generation: 
