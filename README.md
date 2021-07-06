@@ -40,9 +40,9 @@ My name is [**Sebastian Gutierrez**](https://www.linkedin.com/in/sgutier5/), and
 * Shell Scripting 🐢
 
 ## Current Projects and Endeavors 😳
-* Selenium Python Bot 🤖
+* "SebText" Python Bot 🤖
 * iOS notification manager for Windows 🍎
-* **Portl** (Secret Project) 🤫
+* Secret Project 🤫
 
 ## Contact 📞
 <a href="https://twitter.com/sebmaster714">
