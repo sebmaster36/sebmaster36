@@ -15,7 +15,6 @@ My name is [**Sebastian Gutierrez**](https://www.linkedin.com/in/sgutier5/), and
 * First-Generation: 
 	* College Student 👨‍🎓
 	*  American 🌎
-	* Technologist 💻 
 * Love Learning and Exploring 📚
 * Always Open to Work on a Project Together 🔨
 	* Feel free reach out to [me](mailto:sgutier5@nd.edu) at any time! ✨
