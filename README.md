@@ -39,8 +39,9 @@ My name is [**Sebastian Gutierrez**](https://www.linkedin.com/in/sgutier5/), and
 * Shell Scripting 🐢
 
 ## Current Projects and Endeavors 😳
-* "SebText" Python Bot 🤖
-* iOS notification manager for Windows 🍎
+* "SebText" NLP/ML Python Bot 🤖
+* Sleep Schedule Calculator 😴
+* Website Revamp 😈 
 * Secret Project 🤫
 
 ## Contact 📞
