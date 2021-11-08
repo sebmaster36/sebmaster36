@@ -19,7 +19,6 @@ My name is [**Sebastian Gutierrez**](https://www.linkedin.com/in/sgutier5/), and
 * Always Open to Work on a Project Together 🔨
 	* Feel free reach out to [me](mailto:sgutier5@nd.edu) at any time! ✨
 * Actively looking for SWE internships and opportunities to gain experience 🔎
-	* Summer 2022 
 	* Spring 2022 (Preferably Startup in SF Bay Area) 
 	
 > Check out my [personal website](https://worldwideseb.me) for more about me! 👀
@@ -39,8 +38,7 @@ My name is [**Sebastian Gutierrez**](https://www.linkedin.com/in/sgutier5/), and
 * Shell Scripting 🐢
 
 ## Current Projects and Endeavors 😳
-* "SebText" NLP/ML Python Bot 🤖
-* Sleep Schedule Calculator 😴
+* EmojiPasta Generator 😎
 * Website Revamp 😈 
 * Secret Project 🤫
 
