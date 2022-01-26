@@ -33,9 +33,8 @@ My name is [**Sebastian Gutierrez**](https://www.linkedin.com/in/sgutier5/), and
 
 ## Favorite Tools 👷‍♂️
 * Python 🐍
-* C/C++ 🌊
-* HTML/CSS 🕸
 * Shell Scripting 🐢
+* Flask 🍷
 
 ## Current Projects and Endeavors 😳
 * EmojiPasta Generator 😎
