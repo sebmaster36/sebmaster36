@@ -18,8 +18,6 @@ My name is [**Sebastian Gutierrez**](https://www.linkedin.com/in/sgutier5/), and
 * Love Learning and Exploring 📚
 * Always Open to Work on a Project Together 🔨
 	* Feel free reach out to [me](mailto:sgutier5@nd.edu) at any time! ✨
-* Actively looking for SWE internships and opportunities to gain experience 🔎
-	* Spring 2022 (Preferably Startup in SF Bay Area) 
 	
 > Check out my [personal website](https://worldwideseb.me) for more about me! 👀
 
