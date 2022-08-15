@@ -9,34 +9,28 @@
                 ||----w |
                 ||     ||
 ```
-My name is [**Sebastian Gutierrez**](https://www.linkedin.com/in/sgutier5/), and I am currently a **junior** (c/o '23) at [**the University of Notre Dame**](https://www.nd.edu/), pursuing a degree in **Computer Science** 😎
+My name is [**Sebastian Gutierrez**](https://www.linkedin.com/in/sgutier5/), and I am currently a **senior** (c/o '23) at [**the University of Notre Dame**](https://www.nd.edu/), pursuing a degree in **Computer Science** 😎
 
-## About Me 🕺
+## About Me 🫣
 * First-Generation: 
 	* College Student 👨‍🎓
 	*  American 🌎
-* Love Learning and Exploring 📚
-* Always Open to Work on a Project Together 🔨
-	* Feel free reach out to [me](mailto:sgutier5@nd.edu) at any time! ✨
+* Love Learning and Exploring New Things 📚
+* Growth Mindset Enthusiast 🐺😏
 	
 > Check out my [personal website](https://worldwideseb.me) for more about me! 👀
 
 
 ## Interests 🧠
+* Social Good & Community Service 🤝
 * Linux, Open-Source and Hacking 🐧💻
 * Startups and Entrepreneurship 👨‍💼
 * Health and Fitness 🏃‍♂️
-* Social Good & Community Service 🤝
-
-## Favorite Tools 👷‍♂️
-* Python 🐍
-* Shell Scripting 🐢
-* Flask 🍷
 
 ## Current Projects and Endeavors 😳
-* EmojiPasta Generator 😎
-* Website Revamp 😈 
-* Secret Project 🤫
+* secret iOS app underway 🤫
+* NFC Tinkering
+* personal website revamp
 
 ## Contact 📞
 <a href="https://twitter.com/sebmaster714">
