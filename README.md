@@ -27,11 +27,6 @@ My name is [**Sebastian Gutierrez**](https://www.linkedin.com/in/sgutier5/), and
 * Startups and Entrepreneurship 👨‍💼
 * Health and Fitness 🏃‍♂️
 
-## Current Projects and Endeavors 😳
-* secret iOS app underway 🤫
-* NFC Tinkering
-* personal website revamp
-
 ## Contact 📞
 <a href="https://twitter.com/sebmaster714">
     <img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=Twitter" alt="Twitter">
@@ -42,7 +37,7 @@ My name is [**Sebastian Gutierrez**](https://www.linkedin.com/in/sgutier5/), and
   </a>
 
 
-> Feel free to reach out and don't hesitate to stay in touch! 🥳
+> Feel free to reach out and don't hesitate to stay in touch! 
 
 ``EOF``
 
